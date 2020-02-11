@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eef;
+}
+
+.title {
+    text-align: center;
+    font-size: 3em;
+    margin: 1.3em;
+    margin-bottom: 0;
+}
+
+p.subtitle {
+    margin-top: 1em;
+    margin-bottom:3em;
+}
+
+.responsive {
+    width: 75%;
+    height: auto;
+    max-width: 600px;
+}
+
+#video-thumbnail{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {
+    text-align: center;
+}
+
+p#video-name {
+    font-size: 1.3em;
+    margin-top: .2em;
+    margin-bottom: 0;
+}
